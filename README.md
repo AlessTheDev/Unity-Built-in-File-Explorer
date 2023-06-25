@@ -41,5 +41,5 @@ This array defines all the allowed extensions, the other files will be ignored, 
 ![Close button](https://cdn.discordapp.com/attachments/960264244132204655/1122522605447020574/Immagine_2023-06-25_150725.png) <br/>
 This boolean shows/hides the close button
 ### Icons
-![Icons](https://cdn.discordapp.com/attachments/960264244132204655/1122523275386433567/image.png <br/>
+![Icons](https://cdn.discordapp.com/attachments/960264244132204655/1122523275386433567/image.png) <br/>
 In the FileExplorer gameobject you should be able to find the FileIcons script where you can decide the icons
