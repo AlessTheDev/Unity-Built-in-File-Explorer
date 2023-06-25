@@ -27,7 +27,6 @@ public class FileVisual : MonoBehaviour
 
     public static SupportedFileType GetTypeByExtension(string extension)
     {
-        Debug.Log(extension);
         switch(extension)
         {
             case ".mp3":

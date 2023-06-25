@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.alesscatdev.fileexplorer": {
+      "version": "file:BuiltInFileExplorer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+      }
+    },
     "com.unity.2d.animation": {
       "version": "7.0.6",
       "depth": 1,
