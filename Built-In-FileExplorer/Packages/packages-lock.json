@@ -4,9 +4,7 @@
       "version": "file:BuiltInFileExplorer",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {
-        "com.unity.textmeshpro": "3.0.6"
-      }
+      "dependencies": {}
     },
     "com.unity.2d.animation": {
       "version": "7.0.6",

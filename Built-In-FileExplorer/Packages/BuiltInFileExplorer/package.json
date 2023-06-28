@@ -8,9 +8,6 @@
   "documentationUrl": "https://github.com/AlessTheDev/Unity-Built-in-File-Explorer/blob/main/README.md",
   "changelogUrl": "",
   "licensesUrl": "",
-  "dependencies": {
-    "com.unity.textmeshpro": "3.0.6"
-  },
   "keywords": [
     "File Manager",
     "Files",
